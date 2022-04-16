@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+
+/*Slider animation*/
+.carousel {
+  display: inline-flex;
+  overflow-x: hidden;
+  /*  scroll snap is a great feature which will center the image on snap on touch screen devices  */
+  scroll-snap-type: x mandatory;
+  /* all below will hide the scrollbar on all browsers.    */
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+
+.services-container > li{
+  padding: 0.5rem;
+}
+
+.h-image{
+  height: 1500px;
+ 
+}
+
+
+/* FLIP CARD */
+.card{
+  position: relative;
+  width: 250px;
+  height: 350px;
+  transform-style: preserve-3d;
+  border-radius: 1rem;
+}
+
+.card .face{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backface-visibility: hidden;
+  transition: 1s ease-in-out;
+  transform: perspective(500px) rotateY(0deg);
+  border-radius: 1rem;
+
+
+}
+
+.card .face.front{
+  background-color: #fff;
+}
+
+.card:hover .face.front{
+  transform: perspective(500px) rotateY(180deg);
+
+}
+
+.card .face.back{
+  background-color: #fff;
+  color: #000;
+  transform: perspective(500px) rotateY(180deg);
+}
+
+.card:hover .face.back{
+  transform: perspective(500px) rotateY(360deg);
+
+}
