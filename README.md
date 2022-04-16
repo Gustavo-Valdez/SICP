@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+#Descargan el codigo 
+#Abre la carpeta del proyecto en la consola (cmd9 ##utiliza "npm install" para instalar todas las librerias necesarias
