@@ -2,7 +2,7 @@
 import LogoSICPC from "./assets/Logo_SICPC.svg";
 
 //Icons
-import { SiFacebook, SiLinkedin } from "react-icons/si";
+import { SiTwitter, SiLinkedin } from "react-icons/si";
 import { IoIosMail, IoIosCall } from "react-icons/io";
 
 import Image from "next/dist/client/image";
