@@ -2,7 +2,7 @@
 import LogoSICPC from "./assets/Logo_SICPC.svg";
 
 //Social media icons
-import { SiFacebook, SiLinkedin } from "react-icons/si";
+import { SiTwitter, SiLinkedin } from "react-icons/si";
 
 import Image from "next/image";
 import Link from "next/link";
@@ -25,7 +25,7 @@ const Header = () => {
           </span>
           <span>
           <Link href={"https://twitter.com/SicpcC"} className="p-3">
-                <SiFacebook className="text-xl" />
+                <SiTwitter className="text-xl" />
               </Link>
           </span>
           <span>

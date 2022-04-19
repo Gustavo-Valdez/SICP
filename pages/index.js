@@ -9,7 +9,7 @@ import {
   IoIosArrowForward,
 } from "react-icons/io";
 //Social media icons
-import { SiFacebook, SiLinkedin } from "react-icons/si";
+import { SiTwitter, SiLinkedin } from "react-icons/si";
 
 import Image from "next/image";
 import Link from "next/link";

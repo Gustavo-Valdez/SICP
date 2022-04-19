@@ -2,7 +2,7 @@
 import LogoSICPC from "./assets/Logo_SICPC.svg";
 
 //Icons
-import { SiFacebook, SiLinkedin } from "react-icons/si";
+import { SiTwitter, SiLinkedin } from "react-icons/si";
 import { IoIosMail, IoIosCall } from "react-icons/io";
 
 import Image from "next/dist/client/image";
@@ -144,7 +144,7 @@ const Footer = () => {
           <div className="flex justify-center ">
             <span className="pl-3">
               <Link href={"https://twitter.com/SicpcC"} className="p-3">
-                <SiFacebook className="text-xl" />
+                <SiTwitter className="text-xl" />
               </Link>
             </span>
             <span className="pl-3">
