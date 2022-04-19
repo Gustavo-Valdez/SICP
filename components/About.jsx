@@ -15,11 +15,11 @@ const About = () => {
             Acerca de nosotros
           </h2>
           <p className="flex  justify-center items-center mt-10 font-display">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-            eleifend sapien efficitur massa bibendum facilisis. Nulla ipsum
-            ipsum, ullamcorper id tempus in, vulputate vitae elit. Curabitur at
-            congue justo. Fusce aliquet lorem neque, eget lobortis libero
-            sagittis sit amet. Curabitur euismod tristique ipsum porta euismod
+            Somos una empresa de consultoria en la cual nos especializamos en 
+            en la cultura de prevencion, dando capacitaciones con nuestro personal
+            profesional en respuestas a emergencias, igualmente, en SICPC ayudamos
+            a las empresas para su continuidad del negocio asesorando y gestionando 
+            permisos y/o licencias en los estados de Nuevo Leon, Coahuila y Tamaulipas.
           </p>
           <button
             type="button"

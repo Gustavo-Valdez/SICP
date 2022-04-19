@@ -48,7 +48,7 @@ export default function Services() {
           </div>
           <div className="face back">
             <span className="md:text-base w-full md:text-center text-center">
-            Commodo commodo commodo officia exercitation dolore voluptate dolore deserunt adipisicing.
+            Se capacitan a distintas brigadas para que se puedan prevenir y controlar distintas situaciones de emergencia, las cuales serán responsables de combatirlas de manera preventiva o ante eventualidades salvaguardar a los civiles, sus bienes y el entorno mismo.
           </span>
           </div>
         </div>
@@ -64,7 +64,7 @@ export default function Services() {
           </div>
           <div className="face back">
             <span className="md:text-base w-full md:text-center text-center">
-            Commodo commodo commodo officia exercitation dolore voluptate dolore deserunt adipisicing.
+            Capacitación y Operaciones contra situaciones de riesgo en incendios en sus 3 niveles: Básico, Intermedio y Avanzado. Se aprenderá a evaluar en qué nivel está el incendio y se procederá de forma segura según sea el caso.
           </span>
           </div>
         </div>
@@ -81,7 +81,7 @@ export default function Services() {
           </div>
           <div className="face back">
             <span className="md:text-base w-full md:text-center text-center">
-            Commodo commodo commodo officia exercitation dolore voluptate dolore deserunt adipisicing.
+            Se da capacitación estableciendo las bases para determinar y evaluar las capacidades para la atención de emergencias con materiales y residuos peligrosos que pueden ser aplicadas tanto a nivel municipal como federal, para así, que se establezcan los programas y planes necesarios para la prevención y preparación, con el objetivo de disminuir la probabilidad de que se presente una emergencia y reducir la seriedad de las consecuencias.
           </span>
           </div>
         </div>
@@ -97,8 +97,7 @@ export default function Services() {
           </div>
           <div className="face back">
             <span className="md:text-base w-full md:text-center text-center">
-            Commodo commodo commodo officia exercitation dolore voluptate dolore deserunt adipisicing.
-          </span>
+            Capacitación para dar atención prehospitalaria en situaciones de emergencias a víctimas cuya condición clínica se considera que pone en peligro la vida, un órgano o su función, con el fin de lograr limitar el daño que pueda causar esta condición y su estabilización orgánico funcional, desde el primer contacto hasta la llegada y entrega a un establecimiento para la atención medica con servicio de urgencias.          </span>
           </div>
         </div>
                 
@@ -112,8 +111,7 @@ export default function Services() {
           </div>
           <div className="face back">
             <span className="md:text-base w-full md:text-center text-center">
-            Commodo commodo commodo officia exercitation dolore voluptate dolore deserunt adipisicing.
-          </span>
+            Capacitación en los procedimientos técnicos tendientes para lograr la recuperación de una persona que ha quedado atrapada, lesionada, o accidentada en lugares altos, implementando sistemas adecuados que reúnan todas las condiciones de seguridad necesarias para garantizar el éxito de la operación.          </span>
           </div>
         </div>
                 
@@ -127,8 +125,7 @@ export default function Services() {
           </div>
           <div className="face back">
             <span className="md:text-base w-full md:text-center text-center">
-            Commodo commodo commodo officia exercitation dolore voluptate dolore deserunt adipisicing.
-          </span>
+            Capacitación en los procedimientos técnicos tendientes para lograr la recuperación de una persona que ha quedado atrapada, lesionada, o accidentada en lugares donde el espacio no es muy favorable (Espacios confinados o con poca movilidad), implementando sistemas adecuados que reúnan todas las condiciones de seguridad necesarias para garantizar el éxito de la operación.          </span>
           </div>
         </div>
                 
@@ -142,8 +139,8 @@ export default function Services() {
           </div>
           <div className="face back">
             <span className="md:text-base w-full md:text-center text-center">
-            Commodo commodo commodo officia exercitation dolore voluptate dolore deserunt adipisicing.
-          </span>
+            Preparación del sistema de Comando de incidentes (SCI) dentro de las instalaciones, consiguiendo el equipamiento adecuado para que el personal pueda usarlo en cualquier momento, además de preparar los protocolos, procedimientos y comunicaciones, con la responsabilidad de administrar los recursos asignados para lograr los objetivos pertinentes en un evento, incidente u operativo.
+            </span>
           </div>
         </div>
                 
@@ -157,8 +154,8 @@ export default function Services() {
           </div>
           <div className="face back">
             <span className="md:text-base w-full md:text-center text-center">
-            Commodo commodo commodo officia exercitation dolore voluptate dolore deserunt adipisicing.
-          </span>
+            Planeación y gestión de simulacros de emergencias y desastres, donde se enseñaran utilizando las habilidades y técnicas con las que se atenderían casos reales, implicando la movilización y operación real de personas y recursos materiales, planificando el propósito del simulacro, determinando el alcance de las acciones, etc.
+            </span>
           </div>
         </div>
                 

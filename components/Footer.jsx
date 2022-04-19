@@ -29,9 +29,11 @@ const Footer = () => {
           </span>
 
           <p className="font-light md:mt-10 mt-3 text-base md:text-sm">
-            En SICPC Nos encargamos de Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Mauris eleifend sapien efficitur massa bibendum
-            facilisis. Nulla ipsum ipsum, ullamcorper id tempus in,
+            En SICPC nos especializamos en la cultura de prevencion, dando capacitaciones 
+            con nuestro personal profesional en respuestas a emergencias, igualmente,
+            ayudamos a las empresas para su continuidad del negocio asesorando y
+            gestionando permisos y/o licencias en los estados de Nuevo Leon, Coahuila
+            y Tamaulipas.
           </p>
         </div>
 
@@ -41,9 +43,11 @@ const Footer = () => {
             
           </Link>
           <p className="font-light  p-1 text-base">
-            En SICPC Nos encargamos de Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Mauris eleifend sapien efficitur massa bibendum
-            facilisis. Nulla ipsum ipsum, ullamcorper id tempus in,
+            En SICPC nos especializamos en la cultura de prevencion, dando capacitaciones 
+            con nuestro personal profesional en respuestas a emergencias, igualmente,
+            ayudamos a las empresas para su continuidad del negocio asesorando y
+            gestionando permisos y/o licencias en los estados de Nuevo Leon, Coahuila
+            y Tamaulipas.
           </p>
         </div>
         <div className="w-4/5 mt-4">
