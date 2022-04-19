@@ -24,12 +24,14 @@ const Header = () => {
             Llamenos: <Link href={telefonoContacto}>(81) 1325 4100</Link>
           </span>
           <span>
-            <Link href={"google.com"}>
-              <SiFacebook />
-            </Link>
+          <Link href={"https://twitter.com/SicpcC"} className="p-3">
+                <SiFacebook className="text-xl" />
+              </Link>
           </span>
           <span>
-            <SiLinkedin />
+          <Link href={"https://www.linkedin.com/in/sicpc-consultores-a96a3318b/"} className="p-3">
+                <SiLinkedin className="text-xl" />
+              </Link>
           </span>
         </div>
       </div>

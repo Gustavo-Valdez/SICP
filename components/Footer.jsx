@@ -143,12 +143,12 @@ const Footer = () => {
           {/* Social media links */}
           <div className="flex justify-center ">
             <span className="pl-3">
-              <Link href={"google.com"} className="p-3">
+              <Link href={"https://twitter.com/SicpcC"} className="p-3">
                 <SiFacebook className="text-xl" />
               </Link>
             </span>
             <span className="pl-3">
-              <Link href={"google.com"} className="p-3">
+              <Link href={"https://www.linkedin.com/in/sicpc-consultores-a96a3318b/"} className="p-3">
                 <SiLinkedin className="text-xl" />
               </Link>
             </span>
